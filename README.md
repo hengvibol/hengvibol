@@ -1,7 +1,7 @@
 ## Hi, I'm Heng Vibol👋
 
 # 💫 About Me:
-🎓 I'm a graduate student at The Royal University Of Phnom Penh<br>💼 I'm a Mobile Developer<br>✨ I’m passionate about learning, building, and sharing.<br>💡 I love exploring new tech, teaching others, and creating cool things
+🎓 I'm a graduated student at The Royal University Of Phnom Penh<br>💼 I'm a Mobile Developer<br>✨ I’m passionate about learning, building, and sharing.<br>💡 I love exploring new tech, teaching others, and creating cool things
 
 
 ## 🌐 Socials:
